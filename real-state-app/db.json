@@ -2,8 +2,105 @@
   "property": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "Marriot Palace",
+      "dealer": "John Doe",
+      "image": "https://images.pexels.com/photos/4258279/pexels-photo-4258279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quod sunt quidem distinctio animi atq porquo dolores liberoveritatis! Nihil cupiditate quaerat ipsum blanditiis iusto quisquam id laboriosam magnam!",
+      "ratings": "4.5",
+      "price": "2.06 cr",
+      "location": "New Delhi",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Marriot Palace 2",
+      "dealer": "John Doe",
+      "image": "https://images.pexels.com/photos/4258279/pexels-photo-4258279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quod sunt quidem distinctio animi atq porquo dolores liberoveritatis! Nihil cupiditate quaerat ipsum blanditiis iusto quisquam id laboriosam magnam!",
+      "ratings": "4.5",
+      "price": "2.06 cr",
+      "location": "New Delhi",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Marriot Palace",
+      "dealer": "John Doe",
+      "image": "https://images.pexels.com/photos/4258279/pexels-photo-4258279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quod sunt quidem distinctio animi atq porquo dolores liberoveritatis! Nihil cupiditate quaerat ipsum blanditiis iusto quisquam id laboriosam magnam!",
+      "ratings": "4.5",
+      "price": "2.06 cr",
+      "location": "New Delhi",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Marriot Palace",
+      "dealer": "John Doe",
+      "image": "https://images.pexels.com/photos/4258279/pexels-photo-4258279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quod sunt quidem distinctio animi atq porquo dolores liberoveritatis! Nihil cupiditate quaerat ipsum blanditiis iusto quisquam id laboriosam magnam!",
+      "ratings": "4.5",
+      "price": "2.06 cr",
+      "location": "New Delhi",
+      "verified": true
+    }
+  ],
+  "users": [
+    {
+      "name": "Dibyendu Nath",
+      "id": "dibyendunath001@gmail.com",
+      "password": "dfshtdhs",
+      "phone": "7797728248",
+      "city": "Asansol"
+    },
+    {
+      "name": "Dibyendu Nath",
+      "id": "dibyendunath002@gmail.com",
+      "password": "gdesg",
+      "phone": "7797728248",
+      "city": "Asansol"
+    },
+    {
+      "name": "Dibyendu Nath",
+      "id": "dibyendunath004@gmail.com",
+      "password": "4444",
+      "phone": "7797728248",
+      "city": "Asansol"
+    },
+    {
+      "name": "Dibyendu Nath",
+      "id": "dibyendunath006@gmail.com",
+      "password": "ddsd",
+      "phone": "7797728248",
+      "city": "Asansol"
+    },
+    {
+      "name": "Dibyendu Nath",
+      "id": "dibyendunath0@gmail.com",
+      "password": "1111",
+      "phone": "7797728248",
+      "city": "Asansol"
+    },
+    {
+      "name": "Dibyendu Nath",
+      "id": "dibyendunath022@gmail.com",
+      "password": "dfvdsv",
+      "phone": "7797728248",
+      "city": "Asansol"
+    },
+    {
+      "name": "Dibyendu Nath",
+      "id": "dibyendunath041@gmail.com",
+      "password": "arsg",
+      "phone": "7797728248",
+      "city": "Asansol"
+    },
+    {
+      "name": "Dibyendu Nath",
+      "id": "dibyendunath051@gmail.com",
+      "password": "sgabas",
+      "phone": "7797728248",
+      "city": "Asansol"
     }
   ]
 }

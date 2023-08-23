@@ -7,6 +7,8 @@ const Navbar = () => {
     { path: "/", name: "Home" },
     { path: "/property", name: "Property" },
     { path: "/about", name: "About" },
+    { path: "/login", name: "Login" },
+    { path: "/register", name: "Register" },
   ];
   return (
     <Wrapper>
